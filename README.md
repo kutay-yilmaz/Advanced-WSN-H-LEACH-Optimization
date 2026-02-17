@@ -34,15 +34,15 @@ The repository includes a comparative analysis across three distinct development
 | **Energy Balance** | Stochastic / Random | Optimized / Weighted | **Excellent** |
 | **Data Throughput** | 1.0x (Raw Data) | 2.0x (Compressed) | **High Efficiency** |
 
-
+![Comparative Analysis Results](results/Comparative_Analysis_Dashboard.png)
 
 ---
 
 ## 📂 Repository Structure
 
-* `src/`: Contains the primary simulation engine (`H-LEACH_Simulation.py`).
-* `results/`: Stores the `Comparative_Analysis_Dashboard.png` and other performance metrics.
-* `archive/`: Legacy scripts and initial radio model analysis for theoretical verification.
+* **src/**: Contains the primary simulation engine (`H_LEACH_Simulation.py`).
+* **results/**: Stores the `Comparative_Analysis_Dashboard.png` and other performance metrics.
+* **archive/**: Legacy scripts and initial radio model analysis for theoretical verification.
 
 ---
 
@@ -50,18 +50,12 @@ The repository includes a comparative analysis across three distinct development
 
 1. **Environment Setup:** Ensure Python 3.x is installed.
 2. **Install Dependencies:**
-   ```bash
-   pip install numpy matplotlib
-
-3. **Install Dependencies:**
-   ```bash
-   pip install numpy matplotlib# Advanced-WSN-H-LEACH-Optimization
-  Run Simulation:
+```bash
+pip install numpy matplotlib
+Run Simulation:
 
 Bash
 
 python src/H_LEACH_Simulation.py
-Author
-Ismail Kutay Yilmaz Electrical & Electronics Engineering
-
-Project specialized in Energy-Efficient Wireless Communication and Network Optimization.
+👨‍💻 Author
+Ismail Kutay Yilmaz Electrical & Electronics Engineering Project specialized in Energy-Efficient Wireless Communication and Network Optimization.
