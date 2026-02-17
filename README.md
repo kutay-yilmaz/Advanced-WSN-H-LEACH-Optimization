@@ -56,9 +56,11 @@ The repository includes a comparative analysis across three distinct development
 3. **Install Dependencies:**
    ```bash
    pip install numpy matplotlib# Advanced-WSN-H-LEACH-Optimization
-   Run Simulation:
-python src/H_LEACH_Simulation.py
+  Run Simulation:
 
+Bash
+
+python src/H_LEACH_Simulation.py
 Author
 Ismail Kutay Yilmaz Electrical & Electronics Engineering
 
